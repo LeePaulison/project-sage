@@ -1,4 +1,4 @@
-# 🧠 sAIgely
+# 🧠 Project-Sage
 
 **sAIgely** is a lightweight, full-stack AI assistant built to showcase modern front-end and back-end development patterns with real-time communication and persistent GenAI-driven conversations.
 
